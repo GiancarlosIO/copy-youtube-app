@@ -1,5 +1,5 @@
 # Live
-- https://giancarlosio.github.io/copy-youtube-app/
+- https://giancarlosio.github.io/redux-copy-youtube-app/
 
 # Boilerplate:
  - ReduxSimpleStarter: https://github.com/StephenGrider/ReduxSimpleStarter
