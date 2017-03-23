@@ -1,7 +1,5 @@
 # Boilerplate:
- - ReduxSimpleStarter:
-
-	link: git@github.com:StephenGrider/ReduxSimpleStarter.git
+ - ReduxSimpleStarter: https://github.com/StephenGrider/ReduxSimpleStarter
 # Libs
 Development:
 - React
