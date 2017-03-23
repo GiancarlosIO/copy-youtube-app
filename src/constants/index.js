@@ -1,0 +1,9 @@
+const Constants = {
+  GET_INITIAL_VIDEOS: 'GET_INITIAL_VIDEOS',
+  SAVE_NEW_VIDEOS: 'SAVE_NEW_VIDEOS',
+  SEARCH_VIDEO: 'SEARCH_VIDEO',
+  SELECT_VIDEO: 'SELECT_VIDEO'
+}
+
+
+export default Constants;
