@@ -7,6 +7,7 @@ Development:
 - Redux
 - Redux-thunk
 - YoutubeAPI-Search
+
 Testing:
 - Mocha
 - Chai
