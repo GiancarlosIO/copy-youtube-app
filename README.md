@@ -3,7 +3,8 @@
 
 # Boilerplate:
  - ReduxSimpleStarter: https://github.com/StephenGrider/ReduxSimpleStarter
-# Libs
+ 
+# Built with:
 Development:
 - React
 - Redux
